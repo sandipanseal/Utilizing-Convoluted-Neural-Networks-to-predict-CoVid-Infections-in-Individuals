@@ -1,0 +1,1 @@
+# Utilizing-Convoluted-Neural-Networks-to-predict-CoVid-Infections-in-Individuals
